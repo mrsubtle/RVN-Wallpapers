@@ -1,3 +1,3 @@
-* RVN Wallpapers
+# RVN Wallpapers
 
 ![Preview](RVN-Asset-Showcase.png)
